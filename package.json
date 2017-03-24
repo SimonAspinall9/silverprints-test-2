@@ -1,0 +1,21 @@
+{
+    "name": "silver-prints",
+    "version": "1.0.0",
+    "description": "A website for Silverprints",
+    "engines": {
+        "node": "5.9.1"
+    },
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "express": "4.13.3"
+    },
+    "keywords": [
+        "node",
+        "heroku",
+        "express"
+    ],
+    "license": "MIT"
+}
